@@ -1,6 +1,7 @@
 ### 1.参考
 
-https://github.com/DataXujing/EfficientDet_pytorch
+- https://github.com/DataXujing/EfficientDet_pytorch
+- https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch
 
 ### 2.数据转换
 
